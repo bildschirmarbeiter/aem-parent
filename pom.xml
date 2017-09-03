@@ -11,7 +11,7 @@
 
   <groupId>de.bildschirmarbeiter.aem</groupId>
   <artifactId>aem-parent</artifactId>
-  <version>1</version>
+  <version>2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Bildschirmarbeiter AEM Parent</name>
@@ -23,7 +23,7 @@
     <connection>scm:git:git://github.com/bildschirmarbeiter/aem-parent.git</connection>
     <developerConnection>scm:git:git@github.com:bildschirmarbeiter/aem-parent.git</developerConnection>
     <url>https://github.com/bildschirmarbeiter/aem-parent/tree/master</url>
-    <tag>aem-parent-1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
