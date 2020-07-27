@@ -6,7 +6,7 @@
   <parent>
     <groupId>de.bildschirmarbeiter</groupId>
     <artifactId>parent</artifactId>
-    <version>3</version>
+    <version>6</version>
   </parent>
 
   <groupId>de.bildschirmarbeiter.aem</groupId>
